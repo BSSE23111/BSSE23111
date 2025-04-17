@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineering Student | Passionate about Software Development & Data Analysis</h3>
 
 <p align="center">
-  <a href="https://github.com/codelab66">
-    <img src="https://komarev.com/ghpvc/?username=codelab66&label=Profile%20views&color=0e75b6&style=flat" alt="codelab66" />
+  <a href="https://github.com/alisubhani">
+    <img src="https://komarev.com/ghpvc/?username=alisubhani&label=Profile%20views&color=0e75b6&style=flat" alt="alisubhani" />
   </a>
 </p>
 
@@ -19,10 +19,10 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/ali-subhani-3962232b2" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-subhani-3962232b2" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://kaggle.com/ali subhani" target="_blank">
+  <a href="https://kaggle.com/ali%20subhani" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="30" height="30"/>
   </a>
   <a href="https://leetcode.com/u/bilal_66" target="_blank">
@@ -56,16 +56,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codelab66&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alisubhani&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelab66&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisubhani&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codelab66&theme=flat&no-frame=true&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alisubhani&theme=flat&no-frame=true&margin-w=10" alt="Trophies" />
 </p>

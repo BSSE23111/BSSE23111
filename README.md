@@ -19,10 +19,10 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/codelab-bilal" target="_blank">
+  <a href="www.linkedin.com/in/ali-subhani-3962232b2" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://kaggle.com/muhammadbilal66" target="_blank">
+  <a href="https://kaggle.com/ali subhani" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="30" height="30"/>
   </a>
   <a href="https://leetcode.com/u/bilal_66" target="_blank">
